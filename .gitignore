@@ -4,6 +4,7 @@ venv/
 
 # Файли записів
 ESC-50-master/
+spam-data/
 *.txt
 
 # Кеші Python
