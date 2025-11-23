@@ -5,6 +5,7 @@ venv/
 # Файли записів
 ESC-50-master/
 spam-data/
+happiness-report-data/
 *.txt
 
 # Кеші Python
